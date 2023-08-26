@@ -1,0 +1,5 @@
+{{#user}}
+Name: Hritik Singh
+Skills: HTML, CSS, JS, React.js, Java, SQL.
+Email: hritiksn009@gmail.com
+{{/user}}
